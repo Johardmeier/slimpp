@@ -1,0 +1,14 @@
+# Slim settings
+displayErrorDetails : true
+determineRouteBeforeAppMiddleware : true
+
+# Path settings
+
+
+# View settings
+#$settings['twig'] = [
+#    'path' => $settings['root'] . '/templates',
+#    'cache_enabled' => false,
+#    'cache_path' =>  $settings['temp'] . '/twig-cache'
+#];
+
